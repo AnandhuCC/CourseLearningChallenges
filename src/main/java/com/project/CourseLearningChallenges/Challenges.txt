@@ -1,0 +1,17 @@
+Course Learning Challenges:
+
+1- Write a program to find middle node of a linked list using Java.
+   Use classes and reference technique do not use java collections prebuilt list classes.
+
+2- Develop a feature  for PVR ticket booking system having 50 seats for first week of a
+   new released movie.Maintain a strategy of FIFO(first come first serve) for Saturday and
+   Sunday rest of the days in random order for 60 people. Also consider high priority for
+   people having elite passes. There are 10 people having elite pass.
+
+3- Develop GET,POST & DELETE methods of an Instagram review microservie.
+   Review contains an userid, username and rating. Use springboot for developing your solution.
+
+4- Use DAO Pattern in the above microservice to store your review data into H2/Postgres database.
+
+5- Write a program for item search in an inventory store. An Item has ID,NAME and Price properties.
+   Use Java collections HashMap as a data store. Write Unit Tests if the Item is found in search or not.
